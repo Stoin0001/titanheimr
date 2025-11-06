@@ -1,0 +1,203 @@
+;discriminatory slurs (work in progress)
+;     READ ME
+;     It is your responsibility to review this filter list before using it. I, as a US English speaker, made this list. Certain words may not work for your server if it is not a US English server. Additionally, if your server has a special name that is a made up or an otherwise fantastical word, check sections of it three letters at a time in this list to be sure it isn't triggered by this list. Do the same for other special words used in your server, if any. I have omitted many words as they can be used innocently. Some words were also omitted because I do not know them to be extreme enough and they are contained within innocent words.
+;     USAGE
+;     This belongs under [/Script/BeastsOfBermuda.ServerGameInstance] in your Game.INI, and you can start your list with a !ProfanityWords=ClearArray line. Words censored in-game appear the same in webhooks, meaning you can't tell what was actually said. That is why my filters are chopped up. You can Ctrl + F in this list to find out what a partially filtered word or phrase is in this list. If the word/phrase is fully censored, it is one of the following words/phrases:
+;          " a jew", " coon", " fag", " kling", "chekwa", some form of the N-word, or a highly derogatory slur in an Asian language (check their profile or other messages)
+;     REPORT ISSUES WITH THESE FILTERS OR ADDITIONAL FILTERS TO ME, @STOIN, ON DISCORD. I WILL NOT SPACE- OR SYMBOL-PROTECT WORDS IN THIS LIST FOR NON-US ENGLISH SERVERS. GOOGLE A WORD OR PHRASE IF YOU DO NOT KNOW WHAT IT MEANS.
+ProfanityWords=" a jew"
+ProfanityWords=" coon"
+ProfanityWords=" fag"
+ProfanityWords=" kling"
+ProfanityWords="ack bru"
+;               short for black brute, webhook should say bl*******te
+ProfanityWords="anderit"
+;               short for banderite, webhook should say b*******e
+ProfanityWords="awu"
+;               short for amalawu, webhook should say amal***
+ProfanityWords="aράπη"
+;               short for the Greek N-word, webhook should say *****ς
+ProfanityWords="bachi"
+;               short for bachicha, webhook should say *****cha
+ProfanityWords="baia"
+;               short for baiano, webhook should say ****no
+ProfanityWords="beane"
+;               short for beaner or beaney, webhook should say *****r or *****y
+ProfanityWords="bage eate"
+;               short for cabbage eater, webhook should say cab*********r
+ProfanityWords="bage-eate"
+;               short for cabbage-eater, webhook should say cab*********r
+ProfanityWords="bagee"
+;               short for cabbageeater, webhook should say cab*****ater
+ProfanityWords="canac"
+;               short for canaca, webhook should say *****a
+ProfanityWords="chekwa"
+ProfanityWords="ddha hea"
+;               short for buddha head, webhook should say bu********d
+ProfanityWords="ddhahea"
+;               short for buddhahead, webhook should say bu*******d
+ProfanityWords="eotian"
+;               short for boeotian, webhook should say bo******
+ProfanityWords="illo pa"
+;               short for brillo pad, webhook should say br*******d
+ProfanityWords="illopa"
+;               short for brillopad, webhook should say br******d
+ProfanityWords="lackie"
+;               short for blackie, webhook should say b******
+ProfanityWords="mbola"
+;               short for bambola, webhook should say ba*****
+ProfanityWords="mboula"
+;               short for bamboula, webhook should say ba******
+ProfanityWords="mel jock"
+;               short for camel jockey, webhook should say ca********ey
+ProfanityWords="mel-jock"
+;               short for camel-jockey, webhook should say ca********ey
+ProfanityWords="meljo"
+;               short for cameljockey, webhook should say ca*****ckey
+ProfanityWords="n g g"
+ProfanityWords="n gga"
+ProfanityWords="n gga"
+ProfanityWords="n gge"
+ProfanityWords="n i g g"
+ProfanityWords="n i gg"
+ProfanityWords="n igg"
+ProfanityWords="n!gg"
+ProfanityWords="n#gg"
+ProfanityWords="n$gg"
+ProfanityWords="n%gg"
+ProfanityWords="n&gg"
+ProfanityWords="n(gg"
+ProfanityWords="n)gg"
+ProfanityWords="n*gg"
+ProfanityWords="n,gg"
+ProfanityWords="n-gg"
+ProfanityWords="n.gg"
+ProfanityWords="n/gg"
+ProfanityWords="n1gg"
+ProfanityWords="n@gg"
+ProfanityWords="n[gg"
+ProfanityWords="n\gg"
+ProfanityWords="n]gg"
+ProfanityWords="n^gg"
+ProfanityWords="n_gg"
+ProfanityWords="n`gg"
+ProfanityWords="neeger"
+ProfanityWords="neger"
+ProfanityWords="negrito"
+ProfanityWords="ngg"
+ProfanityWords="nhigg"
+ProfanityWords="nig nog"
+ProfanityWords="nig*"
+ProfanityWords="nig-nog"
+ProfanityWords="nigar"
+ProfanityWords="nigette"
+ProfanityWords="nigg"
+ProfanityWords="niggre"
+ProfanityWords="niggu"
+ProfanityWords="niglet"
+ProfanityWords="nignog"
+ProfanityWords="nigor"
+ProfanityWords="nigra"
+ProfanityWords="nigre"
+ProfanityWords="nlgg"
+ProfanityWords="nnami"
+;               short for annamite, webhook should say a*****te
+ProfanityWords="nt jan"
+;               short for aunt jane, webhook should say au******e
+ProfanityWords="nt jemima"
+;               short for aunt jemima, webhook should say au*****ma
+ProfanityWords="nt mary"
+;               short for aunt mary, webhook should say au*******
+ProfanityWords="nt sall"
+;               short for aunt mary, webhook should say au******y
+ProfanityWords="n{gg"
+ProfanityWords="n}gg"
+ProfanityWords="n~gg"
+ProfanityWords="n¡gg"
+ProfanityWords="nÌgg"
+ProfanityWords="nÍgg"
+ProfanityWords="nÎgg"
+ProfanityWords="nÏgg"
+ProfanityWords="nìgg"
+ProfanityWords="nígg"
+ProfanityWords="nîgg"
+ProfanityWords="nïgg"
+ProfanityWords="nĨgg"
+ProfanityWords="nĩgg"
+ProfanityWords="nĪgg"
+ProfanityWords="nīgg"
+ProfanityWords="nĬgg"
+ProfanityWords="nĭgg"
+ProfanityWords="nĮgg"
+ProfanityWords="nįgg"
+ProfanityWords="nİgg"
+ProfanityWords="nıgg"
+ProfanityWords="nƗgg"
+ProfanityWords="nǏgg"
+ProfanityWords="nǐgg"
+ProfanityWords="nȈgg"
+ProfanityWords="nȉgg"
+ProfanityWords="nȊgg"
+ProfanityWords="nȋgg"
+ProfanityWords="nɨgg"
+ProfanityWords="nḬgg"
+ProfanityWords="nḭgg"
+ProfanityWords="nḮgg"
+ProfanityWords="nḯgg"
+ProfanityWords="nỈgg"
+ProfanityWords="nỉgg"
+ProfanityWords="nỊgg"
+ProfanityWords="nịgg"
+ProfanityWords="ohun"
+;               short for bohunk, webhook should say b****k
+ProfanityWords="ot lip"
+;               short for boot lip, webhook should say bo******
+ProfanityWords="otlip"
+;               short for bootlip, webhook should say bo*****
+ProfanityWords="ounty ba"
+;               short for bounty bar, webhook should say b********r
+ProfanityWords="ountyba"
+;               short for bountybar, webhook should say b*******r
+ProfanityWords="own bru"
+;               short for brown brute, webhook should say br*******te
+ProfanityWords="ozg"
+;               short for bozgor, webhook should say b***or
+ProfanityWords="pet munch"
+;               short for carpet muncher, webhook should say car*********er or car*********ing
+ProfanityWords="pet-munch"
+;               short for carpet-muncher, webhook should say car*********er or car*********ing
+ProfanityWords="petmun"
+;               short for carpetmuncher, webhook should say car******cher or car********ing
+ProfanityWords="qheya"
+;               short for amaqheya, webhook should say ama*****
+ProfanityWords="rabu"
+;               short for arabush, webhook should say a****sh
+ProfanityWords="uegum"
+;               short for bluegum, webhook should say bl*****
+ProfanityWords="ugnou"
+;               short for bougnoule, webhook should say bo*****le
+ProfanityWords="urr hea"
+;               short for burr head, webhook should say b*******d
+ProfanityWords="urr-hea"
+;               short for burr-head, webhook should say b*******d
+ProfanityWords="urrhe"
+;               short for burrhead, webhook should say b*****ad
+ProfanityWords="vush"
+;               short for aravush, webhook should say ara****
+ProfanityWords="チャンコロ"
+ProfanityWords="丸太/マルタ"
+ProfanityWords="小日本"
+ProfanityWords="日本鬼子"
+ProfanityWords="星零"
+ProfanityWords="暹豬"
+ProfanityWords="毛唐"
+ProfanityWords="鬼佬"
+ProfanityWords="黑鬼"
+ProfanityWords="黒ん坊"
+ProfanityWords="검둥이"
+ProfanityWords="깜둥이"
+ProfanityWords="짱개"
+ProfanityWords="짱깨"
+ProfanityWords="쪽발이"
+ProfanityWords="코쟁이"
+ProfanityWords="흑형"
