@@ -1,28 +1,50 @@
 ;DISCRIMINATION
 ;     READ ME
-;     It is your responsibility to review this filter list before using it. I, as a US English speaker, made this list. Certain words may not work for your server if it is not a US English server. Additionally, if your server has a special name that is a made up or an otherwise fantastical word, check sections of it three letters at a time in this list to be sure it isn't triggered by this list. Do the same for other special words used in your server, if any. I have omitted many words as they can be used innocently. Some words were also omitted because I do not know them to be extreme enough and they are contained within innocent words.
+;     It is your responsibility to review this filter list before using it. I, as a US English speaker, made this list. Certain words may not work for your server if it is not a US English server, such as "cunt". Additionally, if your server has a special name that is a made up or an otherwise fantastical word, check sections of it three letters at a time in this list to be sure it isn't triggered by this list. Do the same for other special words used in your server, if any. I have omitted many words as they can be used innocently. Some words were also omitted because I do not know them to be extreme enough and they are contained within innocent words.
 ;     USAGE
 ;     This belongs under [/Script/BeastsOfBermuda.ServerGameInstance] in your Game.INI, and you can start your list with a !ProfanityWords=ClearArray line. Words censored in-game appear the same in webhooks, meaning you can't tell what was actually said. That is why my filters are chopped up. You can Ctrl + F in this list to find out what a partially filtered word or phrase is in this list. If the word/phrase is fully censored, it is one of the following words/phrases:
-;          " a jew", " coon", " fag", " kling", "chekwa", "chinky"
+;          " a jew", " coon", " dyke", " fag", " honky", " kling", "chekwa", "chinky", "coon ass", "coonass", "coonie", "cooney", "cunt", "darkey", "darkie", "darky", "dune coon", "dune-coon", "dunecoon", "eyetie", "fag ", "faggot", "faggy", "ghati", "gook", "groid", "homo ", "honkey", "hurri", "jewboy", "jigar", "jigga", "jigger", "jijiboo", "jijjiboo", "jim crow", "kalar", "kalia", "kallu", "kalu", "katwa", "katwe", "keling", "khựa", "kike", "muklo", "munt ", variations of the N-word, " neger", " olah", "quashi", "sambo", "sheenie", "sheeny", "shegetz", "sheigetz", "shiksa", "shit lip", "shit-lip", "shitlip"
 ;     REPORT ISSUES WITH THESE FILTERS OR ADDITIONAL FILTERS TO ME, @STOIN, ON DISCORD. I WILL NOT SPACE- OR SYMBOL-PROTECT WORDS IN THIS LIST FOR NON-US ENGLISH SERVERS. GOOGLE A WORD OR PHRASE IF YOU DO NOT KNOW WHAT IT MEANS.
 ProfanityWords=" a jew"
 ProfanityWords=" coon"
+ProfanityWords=" dyke"
 ProfanityWords=" fag"
+ProfanityWords=" honky"
 ProfanityWords=" kling"
+ProfanityWords=" neger"
+ProfanityWords=" olah"
+ProfanityWords=" velik"
+;               short for shka i velikes/velikës, webhook should say shka i *****es/ës
 ProfanityWords="ack bru"
 ;               short for black brute, webhook should say bl*****te
+ProfanityWords="aise monk"
+;               short for mayonnaise monkey, webhook should say mayonn*****ey
+ProfanityWords="alau"
+;               short for malau (South Africa) or malaun (Bangladesh), webhook should say m*****/n
+ProfanityWords="ale fa"
+;               short for pale face, webhook should say p*****ce
+ProfanityWords="ale-fa"
+;               short for pale-face, webhook should say p*****ce
 ProfanityWords="anderit"
-;               short for banderite (Polish), webhook should say b*****e
+;               short for banderite (Poland), webhook should say b*****e
+ProfanityWords="ant ey"
+;               short for slant eyes, webhook should say sl*****es
+ProfanityWords="ant-ey"
+;               short for slant-eyes, webhook should say sl*****es
+ProfanityWords="antey"
+;               short for slanteyes, webhook should say sl*****es
 ProfanityWords="arnu"
-;               short for czarnuch/a (Polish N-word), webhook should say cz*****ch/a
+;               short for czarnuch/a (Poland N-word), webhook should say cz*****ch/a
+ProfanityWords="aroi"
+;               short for garoi (Romania N-word), webhook should say g*****
+ProfanityWords="awir"
+;               short for jawir (Indonesia), webhook should say j*****
 ProfanityWords="awu"
-;               short for amalawu (South African), webhook should say amal*****
+;               short for amalawu (South Africa), webhook should say amal*****
 ProfanityWords="aράπη"
-;               short for aράπης (Greek N-word), webhook should say *****ς
-ProfanityWords="bachi"
-;               short for bachicha, webhook should say *****cha
+;               short for aράπης (Greece N-word), webhook should say *****ς
 ProfanityWords="baia"
-;               short for baiano, webhook should say *****no
+;               short for baiano (Brazil), webhook should say *****no
 ProfanityWords="beane"
 ;               short for beaner or beaney, webhook should say *****r or *****y
 ProfanityWords="bage eate"
@@ -32,13 +54,34 @@ ProfanityWords="bage-eate"
 ProfanityWords="bagee"
 ;               short for cabbageeater, webhook should say cab*****ater
 ProfanityWords="canac"
-;               short for canaca, webhook should say *****a
+;               short for canaca (Chile), webhook should say *****a
 ProfanityWords="chekwa"
 ProfanityWords="chinky"
+ProfanityWords="chtenschei"
+;               short for schluchtenscheißer (Germany), webhook should say schlu*****ßer
+ProfanityWords="coon ass"
+ProfanityWords="coonass"
+ProfanityWords="cooney"
+ProfanityWords="coonie"
+ProfanityWords="cunt"
+ProfanityWords="darkey"
+ProfanityWords="darkie"
+ProfanityWords="darky"
 ProfanityWords="ddha hea"
 ;               short for buddha head, webhook should say bu*****d
 ProfanityWords="ddhahea"
 ;               short for buddhahead, webhook should say bu*****d
+ProfanityWords="dge pac"
+;               short for fudge packer, webhook should say fu*****ker
+ProfanityWords="dgepac"
+;               short for fudgepacker, webhook should say fu*****ker
+ProfanityWords="dian giv"
+;               short for indian giver, webhook should say in*****er
+ProfanityWords="dras"
+;               short for madrasi (India), webhook should say ma*****i
+ProfanityWords="dune coon"
+ProfanityWords="dune-coon"
+ProfanityWords="dunecoon"
 ProfanityWords="ee ch"
 ;               short for chee chee, webhook should ch*****ee
 ProfanityWords="ee-ch"
@@ -46,7 +89,17 @@ ProfanityWords="ee-ch"
 ProfanityWords="eeche"
 ;               short for cheechee, webhook should ch*****e
 ProfanityWords="eotian"
-;               short for boeotian, webhook should say bo*****
+;               short for boeotian (Greece), webhook should say bo*****
+ProfanityWords="eyetie"
+ProfanityWords="female hys"
+;               short for female hysteria, webhook should say *****teria
+ProfanityWords="ğ türkl"
+;               short for dağ türkleri (Turkey), webhook should say da*****eri
+ProfanityWords="getz"
+;               short for sheigetz/shegetz, webhook should say shei/she*****
+ProfanityWords="ghati"
+ProfanityWords="gook"
+ProfanityWords="groid"
 ProfanityWords="hi ch"
 ;               short for chi chi, webhook should say c*****i
 ProfanityWords="hi-ch"
@@ -57,10 +110,23 @@ ProfanityWords="hing-ch"
 ;               short for ching-chong, webhook should say c*****ong
 ProfanityWords="hingc"
 ;               short for chingchong, webhook should say c*****hong
+ProfanityWords="hit ski"
+;               short for shit skin, webhook should say s*****n (may be used innocently)
+ProfanityWords="hit-ski"
+;               short for shit-skin, webhook should say s*****n (may be used innocently)
+ProfanityWords="hitsk"
+;               short for shitskin, webhook should say s*****in (may be used innocently)
+ProfanityWords="homo "
+ProfanityWords="honkey"
+ProfanityWords="hotno"
+;               short for hotnot, webhook should say *****t
+ProfanityWords="hotten"
+;               short for hottentot, webhook should say *****tot
+ProfanityWords="hurri"
 ProfanityWords="igany"
-;               short for cigany, webhook should say c*****
+;               short for cigany (Hungary), webhook should say c*****
 ProfanityWords="igán"
-;               short for cigány, webhook should say c*****y
+;               short for cigány (Hungary), webhook should say c*****y
 ProfanityWords="illo pa"
 ;               short for brillo pad, webhook should say br*****d
 ProfanityWords="illopa"
@@ -73,18 +139,56 @@ ProfanityWords="ina swe"
 ;               short for china swede, webhook should say ch*****de
 ProfanityWords="inam"
 ;               short for chinaman/chinamen, webhook should say ch*****an/en
+ProfanityWords="yenz"
+;               short for inyenzi (Rwanda), webhook should say in*****i
+ProfanityWords="jewboy"
+ProfanityWords="jigar"
+ProfanityWords="jigga"
+ProfanityWords="jigger"
+ProfanityWords="jijiboo"
+ProfanityWords="jijjiboo"
+ProfanityWords="jim crow"
+ProfanityWords="kævø"
+;               short for skævøjet (Denmark), webhook should say s*****jet
+ProfanityWords="kalar"
+ProfanityWords="kalia"
+ProfanityWords="kallu"
+ProfanityWords="kalu"
+ProfanityWords="katwa"
+ProfanityWords="katwe"
+ProfanityWords="keling"
+ProfanityWords="khar"
+;               short for kharadim (Israel), webhook should say *****adim
+ProfanityWords="khựa"
+ProfanityWords="kike"
+ProfanityWords="apa mao"
+;               short for kupapa/kūpapa maori (New Zealand), webhook should say kup*****ri
+ProfanityWords="apa māo"
+;               short for kupapa/kūpapa māori (New Zealand), webhook should say kup*****ri
 ProfanityWords="lackie"
 ;               short for blackie, webhook should say b*****
+ProfanityWords="lainen"
+;               short for mustalainen, webhook should say musta*****
+ProfanityWords="láh"
+;               short for oláh, webhook should say o*****
+ProfanityWords="linya"
+;               short for moolinyan, webhook should say moo*****n
+ProfanityWords="mak har"
+;               short for namak haram, webhook should say na*****am
 ProfanityWords="mbola"
-;               short for bambola, webhook should say ba*****
+;               short for bambola (France), webhook should say ba*****
 ProfanityWords="mboula"
-;               short for bamboula, webhook should say ba*****
+;               short for bamboula (France), webhook should say ba*****
 ProfanityWords="mel jock"
 ;               short for camel jockey, webhook should say ca*****ey
 ProfanityWords="mel-jock"
 ;               short for camel-jockey, webhook should say ca*****ey
 ProfanityWords="meljo"
 ;               short for cameljockey, webhook should say ca*****ckey
+ProfanityWords="muklo"
+ProfanityWords="mulig"
+;               short for mulignan/mulignon, webhook should say *****nan/non
+ProfanityWords="munt "
 ProfanityWords="n g g"
 ProfanityWords="n gga"
 ProfanityWords="n gga"
@@ -112,9 +216,14 @@ ProfanityWords="n]gg"
 ProfanityWords="n^gg"
 ProfanityWords="n_gg"
 ProfanityWords="n`gg"
-ProfanityWords="neger"
+ProfanityWords="neeger"
+ProfanityWords="neekeri"
 ProfanityWords="negrito"
+ProfanityWords="ng khi n"
+;               short for farang khi nok (Thailand), webhook should say fara*****ok
 ProfanityWords="ngg"
+ProfanityWords="ngle bu"
+;               short for jungle bunny, webhook should say ju*****nny
 ProfanityWords="nhigg"
 ProfanityWords="nig nog"
 ProfanityWords="nig*"
@@ -133,7 +242,6 @@ ProfanityWords="nlgg"
 ProfanityWords="nnami"
 ;               short for annamite, webhook should say a*****te
 ProfanityWords="north monkey"
-ProfanityWords="northern monkey"
 ProfanityWords="nt jan"
 ;               short for aunt jane, webhook should say au*****e
 ProfanityWords="nt jemima"
@@ -180,12 +288,38 @@ ProfanityWords="nỈgg"
 ProfanityWords="nỉgg"
 ProfanityWords="nỊgg"
 ProfanityWords="nịgg"
+ProfanityWords="oara"
+;               short for cioara ("crow", can be used as the N-word in Romania), webhook should say ci*****
+ProfanityWords="oară"
+;               short for cioară ("crow", can be used as the N-word in Romania), webhook should say ci*****
 ProfanityWords="ohun"
 ;               short for bohunk, webhook should say b*****k
+ProfanityWords="olac"
+;               short for polaca, webhook should say p*****a
+ProfanityWords="olie"
+;               short for coolie, webhook should say co*****
+ProfanityWords="olliw"
+;               short for golliwog, webhook should say g*****og
+ProfanityWords="ope hea"
+;               short for slope head, webhook should say sk*****d
+ProfanityWords="ope-hea"
+;               short for slope-head, webhook should say sk*****d
+ProfanityWords="opehea"
+;               short for slopehead, webhook should say sk*****d
+ProfanityWords="orse boldr"
+;               short for risorse boldriniane, webhook should say ris*****iniane
+ProfanityWords="ot hea"
+;               short for dot head, webhook should say d*****d
+ProfanityWords="ot-hea"
+;               short for dot-head, webhook should say d*****d
+ProfanityWords="othea"
+;               short for dothead, webhook should say d*****d
 ProfanityWords="ot lip"
 ;               short for boot lip, webhook should say bo*****
 ProfanityWords="otlip"
 ;               short for bootlip, webhook should say bo*****
+ProfanityWords="oundey"
+;               short for roundeyes, webhook should say r*****es
 ProfanityWords="ounty ba"
 ;               short for bounty bar, webhook should say b*****r
 ProfanityWords="ountyba"
@@ -193,7 +327,9 @@ ProfanityWords="ountyba"
 ProfanityWords="own bru"
 ;               short for brown brute, webhook should say br*****te
 ProfanityWords="ozg"
-;               short for bozgor, webhook should say b*****or
+;               short for bozgor (Romania), webhook should say b*****or
+ProfanityWords="palef"
+;               short for paleface, webhook should say *****ace
 ProfanityWords="pet munch"
 ;               short for carpet muncher, webhook should say car*****er or car*****ing
 ProfanityWords="pet-munch"
@@ -201,27 +337,102 @@ ProfanityWords="pet-munch"
 ProfanityWords="petmun"
 ;               short for carpetmuncher, webhook should say car*****cher or car*****ing
 ProfanityWords="qheya"
-;               short for amaqheya, webhook should say ama*****
+;               short for amaqheya (South Africa), webhook should say ama*****
+ProfanityWords="quashi"
 ProfanityWords="rabu"
-;               short for arabush, webhook should say a*****sh
+;               short for arabush (Israel), webhook should say a*****sh
+ProfanityWords="rag hea"
+;               short for rag head, webhook should say *****d
+ProfanityWords="rag-hea"
+;               short for rag-head, webhook should say *****d
+ProfanityWords="raghea"
+;               short for raghead, webhook should say *****d
+ProfanityWords="redle"
+;               short for redleg (Barbados), webhook should say *****g
+ProfanityWords="redsk"
+;               short for redskin, webhook should say *****in
+ProfanityWords="repi"
+;               short for curepi/kurepi (Paraguay), webhook should say cu/ku*****
+ProfanityWords="repí"
+;               short for curepí/kurepí (Paraguay), webhook should say cu/ku*****
 ProfanityWords="rist kil"
 ;               short for christ killer, webhook should say ch*****ler
 ProfanityWords="rist-ki"
 ;               short for christ-killer, webhook should say ch*****ller
 ProfanityWords="ristk"
 ;               short for christkiller, webhook should say ch*****iller
+ProfanityWords="rog eate"
+;               short for frog eater, webhook should say f*****r
+ProfanityWords="rog-eate"
+;               short for frog-eater, webhook should say f*****r
+ProfanityWords="rogeate"
+;               short for frog eater, webhook should say f*****r
+ProfanityWords="rry munc"
+;               short for curry muncher, webhook should say cu*****her
+ProfanityWords="rry-munc"
+;               short for curry-muncher, webhook should say cu*****her
+ProfanityWords="rrymunc"
+;               short for currymuncher, webhook should say cu*****her
+ProfanityWords="rsity hi"
+;               short for diversity hire, webhook should say dive*****re
+ProfanityWords="sambo"
+ProfanityWords="schfress"
+;               short for froschfresser (Germany), webhook should say fro*****er
+ProfanityWords="schvart"
+;               short for schvartse/schvartze/ khayeh, webhook should say *****se/ze/ khayeh
+ProfanityWords="selaf"
+;               short for inselaffe (Germany), webhook should say in*****fe
+ProfanityWords="shebo"
+;               short for sheboon, webhook should say *****on
+ProfanityWords="sheenie"
+ProfanityWords="sheeny"
+ProfanityWords="shema"
+;               short for shemale, webhook should say *****le
+ProfanityWords="shik"
+;               short for shiksa, webhook should say *****sa
+ProfanityWords="shit lip"
+ProfanityWords="shit-lip"
+ProfanityWords="shitlip"
+ProfanityWords="skop"
+;               short for kaskopp/käskopp (Germany), webhook should say ka/kä*****p
+ProfanityWords="tagee"
+;               short for portagee, webhook should say por*****
+ProfanityWords="tton pi"
+;               short for cotton picker, webhook should say co*****cker
+ProfanityWords="ttonpi"
+;               short for cotton picker, webhook should say co*****icker
 ProfanityWords="uegum"
 ;               short for bluegum, webhook should say bl*****
 ProfanityWords="ugnou"
-;               short for bougnoule, webhook should say bo*****le
+;               short for bougnoule (France, Wolof), webhook should say bo*****le
+ProfanityWords="upe lonk"
+;               short for leupe lonko (Chile), webhook should say le*****o
 ProfanityWords="urr hea"
 ;               short for burr head, webhook should say b*****d
 ProfanityWords="urr-hea"
 ;               short for burr-head, webhook should say b*****d
 ProfanityWords="urrhe"
 ;               short for burrhead, webhook should say b*****ad
+ProfanityWords="ven dod"
+;               short for oven dodger, webhook should say o*****ger
+ProfanityWords="ven-dod"
+;               short for oven-dodger, webhook should say o*****ger
+ProfanityWords="vendod"
+;               short for ovendodger, webhook should say o*****ger
+ProfanityWords="venla"
+;               short for jovenlandes/jovenlandés (Spain), webhook should say jo*****ndes/ndés
 ProfanityWords="vush"
-;               short for aravush, webhook should say ara*****
+;               short for aravush (Israel), webhook should say ara*****
+ProfanityWords="xhë"
+;               short for gexhë (Kosovo), webhook should say ge*****
+ProfanityWords="иgg"
+ProfanityWords="иigg"
+ProfanityWords="йgg"
+ProfanityWords="йigg"
+ProfanityWords="лgg"
+ProfanityWords="лigg"
+ProfanityWords="пgg"
+ProfanityWords="пigg"
 ProfanityWords="チャンコロ"
 ProfanityWords="丸太/マルタ"
 ProfanityWords="小日本"
