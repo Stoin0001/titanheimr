@@ -12,6 +12,8 @@ ProfanityWords=" neger"
 ProfanityWords=" olah"
 ProfanityWords=" velik"
 ;               short for shka i velikes/velikës, webhook should say shka i *****es/ës
+ProfanityWords="ack ape"
+;               short for black ape, webhook should say bl*****
 ProfanityWords="ack bru"
 ;               short for black brute, webhook should say bl*****te
 ProfanityWords="aise monk"
@@ -83,12 +85,16 @@ ProfanityWords="darkie"
 ProfanityWords="darky"
 ProfanityWords="ddha hea"
 ;               short for buddha head, webhook should say bu*****d
+ProfanityWords="ddha-hea"
+;               short for buddha-head, webhook should say bu*****d
 ProfanityWords="ddhahea"
 ;               short for buddhahead, webhook should say bu*****d
 ProfanityWords="dge pac"
-;               short for fudge packer, webhook should say fu*****ker
+;               short for fudge packer/ing, webhook should say fu*****ker
+ProfanityWords="dge-pac"
+;               short for fudge-packer/ing, webhook should say fu*****ker
 ProfanityWords="dgepac"
-;               short for fudgepacker, webhook should say fu*****ker
+;               short for fudgepacker/ing, webhook should say fu*****ker
 ProfanityWords="dian giv"
 ;               short for indian giver, webhook should say in*****er
 ProfanityWords="dras"
@@ -215,6 +221,8 @@ ProfanityWords="khar"
 ;               short for kharadim (Israel), webhook should say *****adim
 ProfanityWords="khựa"
 ProfanityWords="kike"
+ProfanityWords="lack monk"
+;               short for black monkey, webhook should say b*****ey
 ProfanityWords="lackie"
 ;               short for blackie, webhook should say b*****
 ProfanityWords="lainen"
@@ -311,7 +319,7 @@ ProfanityWords="nt jemima"
 ProfanityWords="nt mary"
 ;               short for aunt mary, webhook should say au*****
 ProfanityWords="nt sall"
-;               short for aunt mary, webhook should say au*****y
+;               short for aunt sally, webhook should say au*****y
 ProfanityWords="n{gg"
 ProfanityWords="n}gg"
 ProfanityWords="n~gg"
@@ -382,12 +390,18 @@ ProfanityWords="othea"
 ;               short for dothead, webhook should say d*****d
 ProfanityWords="ot lip"
 ;               short for boot lip, webhook should say bo*****
+ProfanityWords="ot-lip"
+;               short for boot-lip, webhook should say bo*****
 ProfanityWords="otlip"
 ;               short for bootlip, webhook should say bo*****
+ProfanityWords="ou monk"
+;               short for you monkey, webhook should say y*****ey
 ProfanityWords="oundey"
 ;               short for roundeyes, webhook should say r*****es
 ProfanityWords="ounty ba"
 ;               short for bounty bar, webhook should say b*****r
+ProfanityWords="ounty-ba"
+;               short for bounty-bar, webhook should say b*****r
 ProfanityWords="ountyba"
 ;               short for bountybar, webhook should say b*****r
 ProfanityWords="outh fae"
@@ -402,6 +416,8 @@ ProfanityWords="own bru"
 ;               short for brown brute, webhook should say br*****te
 ProfanityWords="ozg"
 ;               short for bozgor (Romania), webhook should say b*****or
+ProfanityWords="pale-f"
+;               short for pale-face, webhook should say *****ace
 ProfanityWords="palef"
 ;               short for paleface, webhook should say *****ace
 ProfanityWords="pet munch"
