@@ -135,3 +135,11 @@ ProfanityWords="作弊表"
 ProfanityWords="чит движок"
 ProfanityWords="чит-движок"
 ProfanityWords="читдвижок"
+ProfanityWords="bla de tru"
+;               short for tabla de trucos (search term), webhook should say ta*****cos
+ProfanityWords="bla tru"
+;               short for tabla trucos (search term), webhook should say ta*****cos
+ProfanityWords="cos moto"
+;               short for trucos motor (search term), webhook should say tru*****r
+ProfanityWords="tor truc"
+;               short for motor trucos (search term), webhook should say mo*****os
