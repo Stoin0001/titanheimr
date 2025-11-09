@@ -4,6 +4,8 @@ I, as a US English speaker, made this list. Certain words may not work for your 
 USAGE
 Beasts of Bermuda ProfanityWords belong under the [/Script/BeastsOfBermuda.ServerGameInstance] header in your Game INI. Words censored in-game appear the same in webhooks, meaning you can't tell what was actually said. That is why my filters are so minimalist for Beasts of Bermuda. The lines beginning with ";" can be deleted in the Beasts of Bermuda lists, as they are just helpful comments. Some words are fully censored in Beasts of Bermuda filters.
 
+If your server has its own website, for example titanheimr.boards.net, you would replace the ".ne" filter with "a.ne" through "z.ne", excluding "s.ne", and also cover numbers and symbols (-, _, etc.) to exclude all websites but your own. You can do the same with ".gg" for your invite link.
+
 ISSUES
 Report issues to me, @stoin, on Discord, assuming you have properly pruned your filter list. An issue could be "x filter interferes with the innocent English word y". If you notice a filter like a slur needs extra symbol- and space-protection (as done with the n-word) you can suggest I do that. I may not put said effort in if I do not have the same issue on my servers.
 
