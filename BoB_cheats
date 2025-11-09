@@ -1,0 +1,137 @@
+
+;CHEATS
+ProfanityWords="ats go"
+;               short for cheats good (website), webhook should say che*****od
+ProfanityWords="atsgo"
+;               short for cheatsgood (website), webhook should say che*****od
+ProfanityWords="c a p e d y"
+;               short for escape dynamics (website), webhook should say e s ***** n a m i c s
+ProfanityWords="cape dyna"
+;               short for escape dynamics (website), webhook should say es*****mics
+ProfanityWords="capedyna"
+;               short for escapedynamics (website), webhook should say es*****mics
+ProfanityWords="c h e a t b o"
+;               short for c h e a t b o o k (website), webhook should say ***** o k
+ProfanityWords="cheat bo"
+;               short for cheat book (website), webhook should say *****ok
+ProfanityWords="cheatbo"
+;               short for cheatbook (website), webhook should say *****ok
+ProfanityWords="c h e a t t a"
+;               short for c h e a t t a b l e (search term), webhook should say ***** b l e
+ProfanityWords="cheat ta"
+;               short for cheat table (search term), webhook should say *****ble
+ProfanityWords="cheatta"
+;               short for cheatta (search term), webhook should say *****ble
+ProfanityWords="c h e a t e n g"
+;               short for c h e a t e n g i n e (program), webhook should say ***** i n e
+ProfanityWords="cheat eng"
+;               short for cheat engine (program), webhook should say *****ine
+ProfanityWords="cheateng"
+;               short for cheatengine (program), webhook should say *****ine
+ProfanityWords="dmenu"
+;               short for modmenu (program), webhook should say mo*****
+ProfanityWords="od menu"
+;               short for mod menu (program), webhook should say m*****
+ProfanityWords="erride f"
+;               short for t . override fps (UE cheat command), webhook should say t . ov*****ps <number>
+ProfanityWords="erridef"
+;               short for t.overridefps (UE cheat command), webhook should say t.ov*****ps <number>
+ProfanityWords="e s h a d e"
+;               short for r e s h a d e (program with a few distance-related cheat filters), webhook should say r*****
+ProfanityWords="eshade"
+;               short for reshade (program with a few distance-related cheat filters), webhook should say r*****
+ProfanityWords="h o w b o n"
+;               short for s h o w b o n e s (UE cheat command), webhook should say s ***** e s
+ProfanityWords="how bon"
+;               short for show bones (UE cheat command), webhook should say s*****es
+ProfanityWords="howbon"
+;               short for showbones (UE cheat command), webhook should say s*****es
+ProfanityWords="h o w c o l l"
+;               short for s h o w c o l l i s i o n p a w n (UE cheat command), webhook should say s ***** i s i o n p a w n
+ProfanityWords="how colli"
+;               short for show collisionpawn (UE cheat command), webhook should say s*****sionpawn
+ProfanityWords="howcolli"
+;               short for showcollisionpawn (UE cheat command), webhook should say s*****sionpawn
+ProfanityWords="h o w l a n d s"
+;               short for s h o w l a n d s c a p e (UE cheat command), webhook should say s ***** c a p e
+ProfanityWords="how lands"
+;               short for show landscape (UE cheat command), webhook should say s*****cape
+ProfanityWords="howlands"
+;               short for showlandscape (UE cheat command), webhook should say s*****cape
+ProfanityWords="h o w p o s t"
+;               short for s h o w p o s t p r o c e s s i n g (UE cheat command), webhook should say s ***** p r o c e s s i n g
+ProfanityWords="how post"
+;               short for show postprocessing (UE cheat command), webhook should say s*****processing
+ProfanityWords="howpost"
+;               short for showpostprocessing (UE cheat command), webhook should say s*****processing
+ProfanityWords="i a g e c u l l"
+;               short for f o l i a g e C u l l A l l (UE cheat command), webhook should say f o l ***** a l l
+ProfanityWords="iage cull"
+;               short for foliage cullall (UE cheat command), webhook should say fol*****all
+ProfanityWords="iagecull"
+;               short for foliagecullall (UE cheat command), webhook should say fol*****all
+ProfanityWords="i a g e . c u l l"
+;               short for f o l i a g e . C u l l A l l (UE cheat command), webhook should say f o l ***** a l l
+ProfanityWords="iage . cull"
+;               short for foliage . cullall (UE cheat command), webhook should say fol*****all
+ProfanityWords="iage.cull"
+;               short for foliage.cullall (UE cheat command), webhook should say fol*****all
+ProfanityWords="imbot"
+;               short for aimbot (program), webhook should say a*****
+ProfanityWords="im bot"
+;               short for aim bot (program), webhook should say a*****
+ProfanityWords="im junki"
+;               short for aim junkies (website), webhook should say a*****es
+ProfanityWords="imjunki"
+;               short for aimjunkies (website), webhook should say a*****es
+ProfanityWords="l i t e p v"
+;               short for e l i t e p v p e r s (website), webhook should say e ***** p e r s
+ProfanityWords="lite pv"
+;               short for elite pvpers (website), webhook should say e*****pers
+ProfanityWords="litepv"
+;               short for elitepvpers (website), webhook should say e*****pers
+ProfanityWords="l i z e m o v e"
+;               short for v i s u a l i z e m o v e m e n t (UE cheat command), webhook should say v i s u a ***** m e n t
+ProfanityWords="lize move"
+;               short for visualize movement (UE cheat command), webhook should say visua*****ment
+ProfanityWords="lizemove"
+;               short for visualizemovement (UE cheat command), webhook should say visua*****ment
+ProfanityWords="n p u t i n i"
+;               short for i n p u t i n i (used as a vector to cheat), webhook should say i ***** i
+ProfanityWords="nput ini"
+;               short for input ini (used as a vector to cheat), webhook should say i*****i
+ProfanityWords="nputini"
+;               short for inputini (used as a vector to cheat), webhook should say i*****i
+ProfanityWords="n p u t . i n i"
+;               short for i n p u t . i n i (used as a vector to cheat), webhook should say i ***** i
+ProfanityWords="n p u t.i n i"
+;               short for i n p u t.i n i (used as a vector to cheat), webhook should say i ***** i
+ProfanityWords="nput . ini"
+;               short for input . ini (used as a vector to cheat), webhook should say i*****i
+ProfanityWords="nput. ini"
+;               short for input. ini (used as a vector to cheat), webhook should say i*****i
+ProfanityWords="nput .ini"
+;               short for input .ini (used as a vector to cheat), webhook should say i*****i
+ProfanityWords="nput.ini"
+;               short for input.ini (used as a vector to cheat), webhook should say i*****i
+ProfanityWords="osurf"
+;               short for neosurf (system), webhook should say ne*****
+ProfanityWords="o surf"
+;               short for neo surf (system), webhook should say ne*****
+ProfanityWords="o t s h o w u"
+;               short for s h o t s h o w u i (UE cheat command), webhook should say s h ***** i
+ProfanityWords="ot showu"
+;               short for shot showui (UE cheat command), webhook should say sh*****i
+ProfanityWords="otshowu"
+;               short for shotshowui (UE cheat command), webhook should say sh*****i
+ProfanityWords="s i o n p a w"
+;               short for c o l l i s i o n p a w n (UE cheat command), webhook should say c o l l i ***** n
+ProfanityWords="sion paw"
+;               short for collision pawn (UE cheat command), webhook should say colli*****n
+ProfanityWords="sionpaw"
+;               short for collisionpawn (UE cheat command), webhook should say colli*****n
+ProfanityWords="作弊引擎"
+ProfanityWords="作弊表"
+ProfanityWords="чит движок"
+ProfanityWords="чит-движок"
+ProfanityWords="читдвижок"
