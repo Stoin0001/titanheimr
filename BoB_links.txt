@@ -1,6 +1,5 @@
+
 ;LINKS
-;     READ ME
-;     It is your responsibility to review this filter list before using it. If your server has its own website, for example titanheimr.boards.net, you would replace the ".ne" filter with "a.ne" through "z.ne", excluding "s.ne", and also cover numbers and symbols (-, _, etc.) to exclude all websites but your own. You can do the same with ".gg" for your invite link, or simply have non-Admins direct other players to the Discord button in the Esc menu of your server.
 ProfanityWords=". b a"
 ProfanityWords=". b b"
 ProfanityWords=". b d"
