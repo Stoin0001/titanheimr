@@ -1,7 +1,7 @@
 
 ;DISCRIMINATION
 ;     If the word/phrase is fully censored, it is one of the following words/phrases:
-;          " a jew", " coon", " dyke", " fag", " honky", " kling", "chekwa", "chinky", "coon ass", "coonass", "coonie", "cooney", "cunt", "darkey", "darkie", "darky", "dune coon", "dune-coon", "dunecoon", "eyetie", "fag ", "faggot", "faggy", "ghati", "gook", "groid", "homo ", "honkey", "hurri", "jewboy", "jigar", "jigga", "jigger", "jijiboo", "jijjiboo", "jim crow", "kalar", "kalia", "kallu", "kalu", "katwa", "katwe", "keling", "khựa", "kike", "muklo", "munt ", variations of the N-word, " neger", " olah", "quashi", "sambo", "sheenie", "sheeny", "shegetz", "sheigetz", "shiksa", "shit lip", "shit-lip", "shitlip", "squaw ", "taig ", "teig ", "ting tong", "tsekwa", "whigga", "whigger", "wigga", "wigger", "Ганс", "ганс", "хужаа", "чечмек", "чучмек", Hebrew slurs, Persian slurs, Thai slurs, Burmese slurs, Japanese slurs, Chinese slurs, and Korean slurs
+;          " a jew", " coon", " dyke", " fag", " honky", " kling", "chekwa", "chinky", "coon ass", "coon-ass", "coonass", "coonie", "cooney", "cunt", "darkey", "darkie", "darky", "dune coon", "dune-coon", "dunecoon", "eyetie", "fag ", "faggot", "faggy", "ghati", "gook", "groid", "homo ", "honkey", "hurri", "jewboy", "jigar", "jigga", "jigger", "jijiboo", "jijjiboo", "jim crow", "kalar", "kalia", "kallu", "kalu", "katwa", "katwe", "keling", "khựa", "kike", "muklo", "munt ", variations of the N-word, " neger", " olah", "quashi", "sambo", "sheenie", "sheeny", "shegetz", "sheigetz", "shiksa", "shit lip", "shit-lip", "shitlip", "squaw ", "taig ", "teig ", "ting tong", "tsekwa", "whigga", "whigger", "wigga", "wigger", "Ганс", "ганс", "хужаа", "чечмек", "чучмек", Hebrew slurs, Persian slurs, Thai slurs, Burmese slurs, Japanese slurs, Chinese slurs, and Korean slurs
 ProfanityWords=" a jew"
 ProfanityWords=" coon"
 ProfanityWords=" dyke"
@@ -73,6 +73,7 @@ ProfanityWords="chtenschei"
 ProfanityWords="cle to"
 ;               short for uncle tom, webhook should say un*****m
 ProfanityWords="coon ass"
+ProfanityWords="coon-ass"
 ProfanityWords="coonass"
 ProfanityWords="cooney"
 ProfanityWords="coonie"
