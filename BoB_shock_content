@@ -1,0 +1,58 @@
+;SHOCK CONTENT
+;     If the word/phrase is fully censored, it is one of the following words/phrases:
+;          "1 cup", "1cup", "2 girl", "2girl", "goatcx", "goatse", "lolicon", "sadism", "two girl 1", "two girls 1", "two girl one", "two girls one", "vore"
+ProfanityWords="1 cup"
+ProfanityWords="1cup"
+ProfanityWords="2 girl"
+ProfanityWords="2girl"
+ProfanityWords="ail bai"
+;               short for jail bait, webhook should say j*****t
+ProfanityWords="ail-bai"
+;               short for jail-bait, webhook should say j*****t
+ProfanityWords="ailbai"
+;               short for jailbait, webhook should say j*****t
+ProfanityWords="crophi"
+;               short for necrophilia, webhook should say ne*****lia
+ProfanityWords="ecrofi"
+;               short for necrofilia, webhook should say n*****lia
+ProfanityWords="goatcx"
+ProfanityWords="goatse"
+ProfanityWords="lden sho"
+;               short for golden shower, webhook should say go*****wer
+ProfanityWords="lden-sho"
+;               short for golden-shower, webhook should say go*****wer
+ProfanityWords="ldensho"
+;               short for goldenshower, webhook should say go*****wer
+ProfanityWords="lolicon"
+ProfanityWords="mon par"
+;               short for lemon party, webhook should say le*****ty
+ProfanityWords="mon-par"
+;               short for lemon-party, webhook should say le*****ty
+ProfanityWords="monpar"
+;               short for lemonparty, webhook should say le*****ty
+ProfanityWords=". hand"
+;               short for mr. hands, webhook should say mr*****s
+ProfanityWords=".hand"
+;               short for mr.hands, webhook should say mr*****s
+ProfanityWords="mrhan"
+;               short for mrhands, webhook should say mr*****ds
+ProfanityWords="mr hand"
+;               short for mr hands, webhook should say mr*****s
+ProfanityWords="odpo"
+;               short for goodpoop, webhook should say go*****op
+ProfanityWords="ot tee"
+;               short for hot teen, webhook should say h*****n
+ProfanityWords="own show"
+;               short for brown shower, webhook should say br*****er
+ProfanityWords="own-show"
+;               short for brown-shower, webhook should say br*****er
+ProfanityWords="ownshow"
+;               short for brownshower, webhook should say br*****er
+ProfanityWords="regas"
+;               short for goregasm, webhook should say go*****m
+ProfanityWords="sadism"
+ProfanityWords="two girl 1"
+ProfanityWords="two girls 1"
+ProfanityWords="two girl one"
+ProfanityWords="two girls one"
+ProfanityWords="vore"
