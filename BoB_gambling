@@ -1,0 +1,40 @@
+
+;GAMBLING
+ProfanityWords="ack po"
+;               short for jack pot, webhook should say j*****t
+ProfanityWords="ack-po"
+;               short for jack-pot, webhook should say j*****t
+ProfanityWords="ackpo"
+;               short for jackpot, webhook should say j*****t
+ProfanityWords="ard shar"
+;               short for card shark, webhook should say c*****k
+ProfanityWords="ard-shar"
+;               short for card-shark, webhook should say c*****k
+ProfanityWords="ardshar"
+;               short for cardshark, webhook should say c*****k
+ProfanityWords="gach"
+;               short for gacha, webhook should say *****a
+ProfanityWords="gamb"
+;               short for gamba/gambling, webhook should say *****a/ling
+ProfanityWords="igh rol"
+;               short for high roll/ing, webhook should say h*****l
+ProfanityWords="igh-rol"
+;               short for high-roll/ing, webhook should say h*****l
+ProfanityWords="ighrol"
+;               short for highroll/ing, webhook should say h*****l
+ProfanityWords="it bos"
+;               short for pit boss, webhook should say p****s
+ProfanityWords="it-bos"
+;               short for pit-boss, webhook should say p****s
+ProfanityWords="itbos"
+;               short for pitboss, webhook should say p****s
+ProfanityWords="nk rol"
+;               short for bank roll, webhook should say ba*****l
+ProfanityWords="nk-rol"
+;               short for bank-roll, webhook should say ba*****l
+ProfanityWords="nkrol"
+;               short for bankroll, webhook should say ba*****l
+ProfanityWords="railbi"
+;               short for railbird, webhook should say ****rd
+ProfanityWords="unket"
+;               short for junket, webhook should say j****
