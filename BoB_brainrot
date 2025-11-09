@@ -1,0 +1,33 @@
+
+;BRAIN ROT
+;     If the you would like fully censored words to only be recognizable as very bad, this full filter list is not for you.
+ProfanityWords="aby gron"
+;               short for baby gronk, webhook should say b*****k
+ProfanityWords="aby grun"
+;               short for baby grunk, webhook should say b*****k
+ProfanityWords="ai cen"
+;               short for kai cenat, webhook should say k*****at
+ProfanityWords="awoo"
+;               short for awoo, webhook may be fully censored ***** or have multiple O's at the end
+ProfanityWords="gya"
+;               short for gyat, webhook should say *****t
+ProfanityWords="fanu"
+;               short for fanum, webhook should say *****m
+ProfanityWords="imace shak"
+;               short for grimace shake, webhook should say gr*****e
+ProfanityWords="ok max"
+;               short for look maxxing, webhook should say lo*****xing
+ProfanityWords="okmax"
+;               short for lookmaxxing, webhook should say lo*****xing
+ProfanityWords="oks max"
+;               short for looks maxxing, webhook should say lo*****xing
+ProfanityWords="oksmax"
+;               short for looksmaxxing, webhook should say lo*****xing
+ProfanityWords="n ohi"
+;               short for in ohio, webhook should say i*****o
+ProfanityWords="riz"
+;               short for rizz, webhook should say *****z
+ProfanityWords="sigm"
+;               short for sigma, webhook should say *****a
+ProfanityWords="skibi"
+;               short for skibidi, webhook should say *****di
