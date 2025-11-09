@@ -1,49 +1,95 @@
 
 ;SEXUAL
+;     If the word/phrase is fully censored, it is one of the following words/phrases:
+;          " cooter", " cum", " erp", " e girl", " e f*ck", " e fuck", " rape", "anal", "anus", "areola ", "b d s m", "bdsm", "clit", "cum ", "e-f*ck", "e-fuck", "e s*x", "e sex", "ef*ck", "efuck", "her dick", "his dick", "my dick", "ur dick", "your dick"
+ProfanityWords=" cooter"
+ProfanityWords=" cum"
 ProfanityWords=" erp"
+ProfanityWords=" e girl"
+ProfanityWords=" e f*ck"
+ProfanityWords=" e fuck"
 ProfanityWords=" rape"
 ProfanityWords="anal"
-ProfanityWords="aniling"
+ProfanityWords="anili"
+;               short for anilingus, webhook should say *****ngus
 ProfanityWords="anus"
-ProfanityWords="areola"
+ProfanityWords="areola "
 ProfanityWords="b d s m"
-ProfanityWords="ball sac"
-ProfanityWords="ballsac"
-ProfanityWords="bare back"
-ProfanityWords="bareback"
+ProfanityWords="bare bac"
+;               short for bare back, webhook should say *****k
 ProfanityWords="bdsm"
-ProfanityWords="bedroom eye"
-ProfanityWords="big pp"
-ProfanityWords="blow job"
-ProfanityWords="blue bal"
-ProfanityWords="blue waff"
-ProfanityWords="bluebal"
-ProfanityWords="bluewaff"
 ProfanityWords="boner"
-ProfanityWords="breast"
-ProfanityWords="breed her"
-ProfanityWords="breed me"
-ProfanityWords="breed you"
-ProfanityWords="but plug"
-ProfanityWords="butplug"
-ProfanityWords="butt plug"
-ProfanityWords="buttplug"
-ProfanityWords="cake fart"
-ProfanityWords="cakefart"
-ProfanityWords="cam girl"
-ProfanityWords="castrat"
-ProfanityWords="circumc"
-ProfanityWords="circums"
+ProfanityWords="blow jo"
+;               short for blow job, webhook should say *****b
+ProfanityWords="blowjo"
+;               short for blowjob, webhook should say *****b
+ProfanityWords="but plu"
+;               short for but plug, webhook should say *****g
+ProfanityWords="butplu"
+;               short for butplug, webhook should say *****g
+ProfanityWords="cake far"
+;               short for cake fart, webhook should say *****t
+ProfanityWords="cakefar"
+;               short for cakefart, webhook should say *****t
+ProfanityWords="cam gir"
+;               short for cam girl, webhook should say *****l
+ProfanityWords="camgir"
+;               short for camgirl, webhook should say *****l
+ProfanityWords="castr"
+;               short for castrate/castrated/castration, webhook should say *****ate/ated/ation
 ProfanityWords="clit"
-ProfanityWords="cloaca"
-ProfanityWords="cooter"
-ProfanityWords="cum"
-ProfanityWords="daddy"
-ProfanityWords="dick"
-ProfanityWords="dildo"
-ProfanityWords="e girl"
+ProfanityWords="cstas"
+;               short for ecstasy, webhook should say e*****y
+ProfanityWords="cum "
+ProfanityWords="dild"
+;               short for dildo, webhook should say *****o
+ProfanityWords="droom ey"
+;               short for bedroom eyes, webhook should say be*****es
+ProfanityWords="e s*x"
 ProfanityWords="e sex"
-ProfanityWords="ecstasy"
+ProfanityWords="e-f*ck"
+ProfanityWords="e-fuck"
+ProfanityWords="eed he"
+;               short for breed her, webhook should say br*****r
+ProfanityWords="eed me"
+;               short for breed me, webhook should say br*****
+ProfanityWords="eed yo"
+;               short for breed you, webhook should say br*****u
+ProfanityWords="ef*ck"
+ProfanityWords="efuck"
+ProfanityWords="her dick"
+ProfanityWords="his dick"
+ProfanityWords="ig pp"
+;               short for big pp, webhook should say b*****
+ProfanityWords="ircumci"
+;               short for circumcision, webhook should say c*****sion
+ProfanityWords="ircumsi"
+;               short for circumsision, webhook should say c*****sion
+ProfanityWords="ll sack"
+;               short for ball sack, webhook should say ba*****
+ProfanityWords="llsack"
+;               short for ballsack, webhook should say ba*****
+ProfanityWords="loac"
+;               short for cloaca, webhook should say c*****a
+ProfanityWords="lue bal"
+;               short for blue ball/s/ed, webhook should say b*****l/ls/led
+ProfanityWords="lue waf"
+;               short for blue waffle, webhook should say b*****fle
+ProfanityWords="lue-bal"
+;               short for blue-ball/s/ed, webhook should say b*****l/ls/led
+ProfanityWords="luebal"
+;               short for blueball/s/ed, webhook should say b*****l/ls/led
+ProfanityWords="luewaf"
+;               short for bluewaffle, webhook should say b*****fle
+ProfanityWords="my dick"
+ProfanityWords="reast"
+;               short for breast/s, webhook should say b*****/s
+ProfanityWords="ur dick"
+ProfanityWords="utt pl"
+;               short for but plug, webhook should say b*****ug
+ProfanityWords="uttpl"
+;               short for butplug, webhook should say b*****ug
+ProfanityWords="your dick"
 ProfanityWords="egirl"
 ProfanityWords="ejacu"
 ProfanityWords="erect"
@@ -122,6 +168,9 @@ ProfanityWords="porn"
 ProfanityWords="porn"
 ProfanityWords="pube"
 ProfanityWords="pubic"
+ProfanityWords="r@pe"
+ProfanityWords="r*pe"
+ProfanityWords="r8pe"
 ProfanityWords="rape he"
 ProfanityWords="rape hi"
 ProfanityWords="rape it"
@@ -156,18 +205,9 @@ ProfanityWords="voyeur"
 ProfanityWords="fetish"
 ProfanityWords="dirty talk"
 ProfanityWords="hump"
-ProfanityWords="r@pe"
-ProfanityWords="r*pe"
-ProfanityWords="r8pe"
 ProfanityWords="darbi"
 ProfanityWords="backshot"
 ProfanityWords="back shot"
-ProfanityWords="efuck"
-ProfanityWords="e fuck"
-ProfanityWords="e-fuck"
-ProfanityWords="ef*ck"
-ProfanityWords="e f*ck"
-ProfanityWords="e-f*ck"
 ProfanityWords="threesome"
 ProfanityWords="3some"
 ProfanityWords="foursome"
