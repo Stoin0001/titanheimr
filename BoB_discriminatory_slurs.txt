@@ -1,10 +1,7 @@
+
 ;DISCRIMINATION
-;     READ ME
-;     It is your responsibility to review this filter list before using it. I, as a US English speaker, made this list. Certain words may not work for your server if it is not a US English server, such as "cunt" and "that's/thats gay". Additionally, if your server has a special name that is a made up or an otherwise fantastical word, check sections of it three letters at a time in this list to be sure it isn't triggered by this list. Do the same for other special words used in your server, if any. I have omitted many words as they can be used innocently. Some words were also omitted because I do not know them to be extreme enough and they are contained within innocent words.
-;     USAGE
-;     This belongs under [/Script/BeastsOfBermuda.ServerGameInstance] in your Game.INI, and you can start your list with a !ProfanityWords=ClearArray line. Words censored in-game appear the same in webhooks, meaning you can't tell what was actually said. That is why my filters are chopped up. You can Ctrl + F in this list to find out what a partially filtered word or phrase is in this list. If the word/phrase is fully censored, it is one of the following words/phrases:
+;     If the word/phrase is fully censored, it is one of the following words/phrases:
 ;          " a jew", " coon", " dyke", " fag", " honky", " kling", "chekwa", "chinky", "coon ass", "coonass", "coonie", "cooney", "cunt", "darkey", "darkie", "darky", "dune coon", "dune-coon", "dunecoon", "eyetie", "fag ", "faggot", "faggy", "ghati", "gook", "groid", "homo ", "honkey", "hurri", "jewboy", "jigar", "jigga", "jigger", "jijiboo", "jijjiboo", "jim crow", "kalar", "kalia", "kallu", "kalu", "katwa", "katwe", "keling", "khựa", "kike", "muklo", "munt ", variations of the N-word, " neger", " olah", "quashi", "sambo", "sheenie", "sheeny", "shegetz", "sheigetz", "shiksa", "shit lip", "shit-lip", "shitlip", "squaw ", "taig ", "teig ", "ting tong", "tsekwa", "whigga", "whigger", "wigga", "wigger", "Ганс", "ганс", "хужаа", "чечмек", "чучмек", Hebrew slurs, Persian slurs, Thai slurs, Burmese slurs, Japanese slurs, Chinese slurs, and Korean slurs
-;     REPORT ISSUES WITH THESE FILTERS OR ADDITIONAL FILTERS TO ME, @STOIN, ON DISCORD. I WILL NOT SPACE- OR SYMBOL-PROTECT WORDS IN THIS LIST FOR NON-US ENGLISH SERVERS. GOOGLE A WORD OR PHRASE IF YOU DO NOT KNOW WHAT IT MEANS.
 ProfanityWords=" a jew"
 ProfanityWords=" coon"
 ProfanityWords=" dyke"
