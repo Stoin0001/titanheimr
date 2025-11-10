@@ -89,12 +89,6 @@ ProfanityWords="ddha-hea"
 ;               short for buddha-head, webhook should say bu*****d
 ProfanityWords="ddhahea"
 ;               short for buddhahead, webhook should say bu*****d
-ProfanityWords="dge pac"
-;               short for fudge packer/ing, webhook should say fu*****ker
-ProfanityWords="dge-pac"
-;               short for fudge-packer/ing, webhook should say fu*****ker
-ProfanityWords="dgepac"
-;               short for fudgepacker/ing, webhook should say fu*****ker
 ProfanityWords="dian giv"
 ;               short for indian giver, webhook should say in*****er
 ProfanityWords="dras"
