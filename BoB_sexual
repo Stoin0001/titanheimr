@@ -1,7 +1,7 @@
 
-;SEXUAL 11/09/25
+;SEXUAL 11/10/25
 ;     If the word/phrase is fully censored, it is one of the following words/phrases:
-;          " anal", " cialis", " cooter", " cum", " erp", " e girl", " e f*ck", " e fuck", " rape", "anus", "areola ", "b d s m", "bdsm", "cialis ", "clit", "cum ", "e-f*ck", "e-fuck", "egirl", "e-girl", "e s*x", "e sex", "ef*ck", "efuck", "esex", "felch", "her labia", "hentai", "his dick", "i'm in heat", "im in heat", "jiz", "labia ", "m p r e g", "m preg", "male preg", "maledom", "my dick", "my labia", "she's in heat", "shes in heat", "ur dick", "your dick", "wet sex"
+;          " anal", " cialis", " cooter", " cum", " erp", " e girl", " e f*ck", " e fuck", " rape", "anus", "areola ", "b d s m", "bdsm", "cialis ", "clit", "cum ", "e-f*ck", "e-fuck", "egirl", "e-girl", "e s*x", "e sex", "ef*ck", "efuck", "esex", "felch", "her labia", "hentai", "her tit", "his dick", "his seed", "his tit", "hump me", "hump it", "humps me", "humps it", "i'm in heat", "im in heat", "jiz", "labia ", "m p r e g", "m preg", "male preg", "maledom", "mount me", "mount it", "mounts me", "mounts it", "mpreg", "my dick", "my labia", "my seed", "non con", "non-con", "noncon", "she's in heat", "shes in heat", "their tit", "ur dick", "ur tit", "your dick", "your tit", "wet sex"
 ProfanityWords=" anal"
 ProfanityWords=" cialis"
 ProfanityWords=" cooter"
@@ -67,8 +67,12 @@ ProfanityWords="e-f*ck"
 ProfanityWords="e-fuck"
 ProfanityWords="eed he"
 ;               short for breed her, webhook should say br*****r
+ProfanityWords="eed it"
+;               short for breed it, webhook should say br*****
 ProfanityWords="eed me"
 ;               short for breed me, webhook should say br*****
+ProfanityWords="eed the"
+;               short for breed them, webhook should say br*****m
 ProfanityWords="eed yo"
 ;               short for breed you, webhook should say br*****u
 ProfanityWords="eet pic"
@@ -90,8 +94,27 @@ ProfanityWords="fellat"
 ProfanityWords="genita"
 ;               short for genital/s, webhook should say *****l/ls
 ProfanityWords="her labia"
+ProfanityWords="her tit"
 ProfanityWords="hentai"
 ProfanityWords="his dick"
+ProfanityWords="his seed"
+ProfanityWords="his tit"
+ProfanityWords="hump he"
+;               short for hump her, webhook should say *****r
+ProfanityWords="hump hi"
+;               short for hump him, webhook should say *****m
+ProfanityWords="hump me"
+ProfanityWords="hump it"
+ProfanityWords="hump the"
+;               short for hump them, webhook should say *****m
+ProfanityWords="humps he"
+;               short for humps her, webhook should say *****r
+ProfanityWords="humps hi"
+;               short for humps him, webhook should say *****m
+ProfanityWords="humps me"
+ProfanityWords="humps it"
+ProfanityWords="humps the"
+;               short for humps them, webhook should say *****m
 ProfanityWords="ig pp"
 ;               short for big pp, webhook should say b*****
 ProfanityWords="i'm in heat"
@@ -128,14 +151,42 @@ ProfanityWords="male preg"
 ProfanityWords="maledom"
 ProfanityWords="mastu"
 ;               short for masturbate/ed/tion/ting, webhook should say *****rbate/rbated/rbation/rbating
+ProfanityWords="missionary"
+ProfanityWords="mount he"
+;               short for mount her, webhook should say *****r
+ProfanityWords="mount hi"
+;               short for mount him, webhook should say *****m
+ProfanityWords="mount me"
+ProfanityWords="mount it"
+ProfanityWords="mount the"
+;               short for mount them, webhook should say *****m
+ProfanityWords="mounts he"
+;               short for mounts her, webhook should say *****r
+ProfanityWords="mounts hi"
+;               short for mounts him, webhook should say *****m
+ProfanityWords="mounts me"
+ProfanityWords="mounts it"
+ProfanityWords="mounts the"
+;               short for mounts them, webhook should say *****m
+ProfanityWords="mpreg"
+ProfanityWords="muff d"
+;               short for muff diving, webhook should say *****iving
+ProfanityWords="muff-d"
+;               short for muff-diving, webhook should say *****iving
+ProfanityWords="muffd"
+;               short for muffdiving, webhook should say *****iving
 ProfanityWords="my dick"
 ProfanityWords="my labia"
+ProfanityWords="my seed"
 ProfanityWords="ng pp"
 ;               short for long pp, webhook should say lo*****
 ProfanityWords="nger me"
 ;               short for finger me, webhook should say fi*****
 ProfanityWords="nger yo"
 ;               short for finger yo/you, webhook should say fi*****o/ou
+ProfanityWords="non con"
+ProfanityWords="non-con"
+ProfanityWords="noncon"
 ProfanityWords="ntle sex"
 ;               short for gentle sex, webhook should say ge*****
 ProfanityWords="oor sex"
@@ -166,11 +217,13 @@ ProfanityWords="rge pp"
 ;               short for large pp, webhook should say la*****
 ProfanityWords="she's in heat"
 ProfanityWords="shes in heat"
+ProfanityWords="their tit"
 ProfanityWords="uge pp"
 ;               short for huge pp, webhook should say h*****
 ProfanityWords="ugh sex"
 ;               short for rough sex, webhook should say ro*****
 ProfanityWords="ur dick"
+ProfanityWords="ur tit"
 ProfanityWords="utt pl"
 ;               short for but plug, webhook should say b*****ug
 ProfanityWords="uttpl"
@@ -183,3 +236,4 @@ ProfanityWords="ve sex"
 ;               short for give/have sex, webhook should say gi/ha*****
 ProfanityWords="wet sex"
 ProfanityWords="your dick"
+ProfanityWords="your tit"
