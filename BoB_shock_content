@@ -1,4 +1,4 @@
-;SHOCK CONTENT 11/09/25
+;SHOCK CONTENT 11/10/25
 ;     If the word/phrase is fully censored, it is one of the following words/phrases:
 ;          "1 cup", "1cup", "2 girl", "2girl", "goatcx", "goatse", "lolicon", "sadism", "two girl 1", "two girls 1", "two girl one", "two girls one", "vore"
 ProfanityWords="1 cup"
@@ -40,6 +40,10 @@ ProfanityWords="mr hand"
 ;               short for mr hands, webhook should say mr*****s
 ProfanityWords="odpo"
 ;               short for goodpoop, webhook should say go*****op
+ProfanityWords="ork spi"
+;               short for pork spin, webhook should say p*****n
+ProfanityWords="orkspi"
+;               short for porkspin, webhook should say p*****n
 ProfanityWords="ot tee"
 ;               short for hot teen, webhook should say h*****n
 ProfanityWords="own show"
@@ -48,8 +52,6 @@ ProfanityWords="own-show"
 ;               short for brown-shower, webhook should say br*****er
 ProfanityWords="ownshow"
 ;               short for brownshower, webhook should say br*****er
-ProfanityWords="regas"
-;               short for goregasm, webhook should say go*****m
 ProfanityWords="sadism"
 ProfanityWords="two girl 1"
 ProfanityWords="two girls 1"
