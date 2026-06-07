@@ -1,5 +1,5 @@
 
-;DISCRIMINATION 5/15/26
+;DISCRIMINATION 6/7/26
 ;     If the word/phrase is fully censored, it is one of the following words/phrases:
 ;          " a jew", " coon", " dyke", " fag", " honky", " kling", "chekwa", "chinky", "coon ass", "coon-ass", "coonass", "coonie", "cooney", "cunt", "darkey", "darkie", "darky", "dune coon", "dune-coon", "dunecoon", "eyetie", "fag ", "faggot", "faggy", "ghati", "gook", "groid", "homo ", "honkey", "hurri", "jewboy", "jigar", "jigga", "jigger", "jijiboo", "jijjiboo", "jim crow", "kalar", "kalia", "kallu", "kalu", "katwa", "katwe", "keling", "khựa", "kike", "muklo", "munt ", variations of the N-word, " neger", " olah", "quashi", "sambo", "sheenie", "sheeny", "shegetz", "sheigetz", "shiksa", "shit lip", "shit-lip", "shitlip", "squaw ", "taig ", "teig ", "ting tong", "tsekwa", "whigga", "whigger", "wigga", "wigger", "Ганс", "ганс", "хужаа", "чечмек", "чучмек", Hebrew slurs, Persian slurs, Thai slurs, Burmese slurs, Japanese slurs, Chinese slurs, and Korean slurs
 ProfanityWords=" a jew"
@@ -54,8 +54,6 @@ ProfanityWords="awu"
 ;               short for amalawu (South Africa), webhook should say amal*****
 ProfanityWords="aράπη"
 ;               short for aράπης (Greece N-word), webhook should say *****ς
-ProfanityWords="анс"
-;               short for Ганс/ганс, webhook should say Г***** or г*****
 ProfanityWords="baia"
 ;               short for baiano (Brazil), webhook should say *****no
 ProfanityWords="beane"
@@ -569,6 +567,8 @@ ProfanityWords="черно"
 ;               short for черножопый/черномазый (Russia), webhook should say черно*****
 ProfanityWords="одный космо"
 ;               short for безродный космополит, webhook should say безр*****полит
+ProfanityWords="Ганс"
+ProfanityWords="ганс"
 ProfanityWords="иgg"
 ProfanityWords="иigg"
 ProfanityWords="йgg"
